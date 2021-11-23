@@ -1,4 +1,4 @@
-animal_sounds_classification
+Animal Sounds Classification
 ==============================
 
 FourthBrain MLOps Capstone Project
